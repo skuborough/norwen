@@ -1,2 +1,2 @@
 # README
-This is Norwen project.
+This is Norwen repository.
